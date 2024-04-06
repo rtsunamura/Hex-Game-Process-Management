@@ -1,0 +1,3 @@
+﻿  WinMain.cpp
+C:\DxLib_VC\FilePass_DxLib\DxLib.h(3344,1): warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss
+  Manager.vcxproj -> C:\Users\rtsun\Program\CS\Operating System\HexGame\Manager\x64\Debug\Manager.exe

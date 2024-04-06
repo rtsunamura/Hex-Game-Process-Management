@@ -1,0 +1,4 @@
+﻿  Main.cpp
+C:\Users\rtsun\Program\CS\Operating System\HexGame\Player1\Main.cpp(129,20): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\rtsun\Program\CS\Operating System\HexGame\Player1\Main.cpp(139,20): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  Player1.vcxproj -> C:\Users\rtsun\Program\CS\Operating System\HexGame\Player1\x64\Debug\Player1.exe

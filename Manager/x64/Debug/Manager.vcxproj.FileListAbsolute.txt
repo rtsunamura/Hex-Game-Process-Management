@@ -1,0 +1,2 @@
+C:\Users\rtsun\OneDrive\Documents\csc\csc 3391 Operatin System\Lab\CSC3391-Lab1-SP2023-Rentaro-Tsunamura\Manager\x64\Debug\Manager.exe
+C:\Users\rtsun\Program\CS\Operating System\HexGame\Manager\x64\Debug\Manager.exe
